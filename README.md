@@ -1,7 +1,7 @@
 # Normalizacion de datos basados en texto
 
 ---
-##Resumen
+ ##Resumen
 ---
 En este proyecto se realizó la limpieza y transformación de datos en Excel mediante diferentes funciones de texto. Se utilizaron funciones como ESPACIOS, NOMPROPIO, IZQUIERDA, EXTRAE, CONCAT y MAYUSC.
 ---
